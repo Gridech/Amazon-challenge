@@ -17,3 +17,11 @@
   z-index: -1;
   margin-bottom: -150px;
 }
+.home__row > img {
+  cursor: pointer;
+  max-height: 200px;
+  width: 100%;
+  object-fit: contain;
+  margin-bottom: 15px;
+  transition: transform 0.2s;
+}
